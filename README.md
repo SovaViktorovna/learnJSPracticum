@@ -1,2 +1,2 @@
 # learnJSPracticum
-performing tasks from the website learn.javascript.ru
+Each folder in this repository corresponds to one of the tasks on learn.javascript.ru.
